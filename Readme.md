@@ -4,5 +4,5 @@ GetBv.py是源代码
 
 GetBv.exe可以直接下载使用
 
-![image-20210729234942848](image/image-20210729234942848.png)
+![图片](https://user-images.githubusercontent.com/54969136/127526276-255a584f-72e5-4e55-9c4e-c3777b549c02.png)
 
